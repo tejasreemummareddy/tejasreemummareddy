@@ -9,12 +9,15 @@ Experienced Business Intelligence Developer and Data Analyst with over 7 years o
 ## 📊 Projects
 Here are some of the significant projects I've worked on:
 
-- **2024 Layoff Analysis: Trends and Strategic Insights**: Analyzing 2024 layoff trends across industries to provide strategic insights for mitigating future workforce reductions.
+- **2024 Layoff Analysis: Trends and Strategic Insights**: This project analyzes layoffs across industries using a 2024 dataset, identifying patterns and providing actionable insights to mitigate impacts, featuring an interactive Tableau dashboard for deeper exploration.
   - Tools Used: Tableau
-- **Netflix: Analysis & Visualization**: 
+- **Netflix: Analysis & Visualization**: This Python project analyzes and visualizes Netflix's data to track content trends, offering strategic insights for enhancing user engagement and content diversification, using Pandas and Matplotlib for data processing and visualization.
   - Tools Used: Python
-- **Issued Construction Permits: Analysis & Prediction**: 
+- **Issued Construction Permits: Analysis & Prediction**: This project leverages over two million records to enhance the construction permitting process in Austin, employing machine learning algorithms to predict permit times, classify types, and forecast demand, providing actionable insights for city planners and developers.
   - Tools Used: Python
+  - Algorithms Covered: Logistic Regression, Naïve Bayes, Decision Tree, Random Forest, Gradient Boosting Regressor, Isolation Forest, Exponential Smoothing
+- **JD.com Analysis**: Utilizing PySpark, this project delves into JD.com's transactional data to analyze user demographics and purchase patterns, offering strategic insights for improved marketing strategies and customer interactions to strengthen JD.com's competitive edge in the e-commerce market.
+  - Tools Used: PySpark
 
 ## 👀 I'm interested in
 - Data Analysis and Business Intelligence
