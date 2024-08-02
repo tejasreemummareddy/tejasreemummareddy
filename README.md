@@ -33,6 +33,7 @@ Here are some of the significant projects I've worked on:
 ## 📫 How to reach me
 - **Email**: [mummareddytejasree@gmail.com](mailto:mummareddytejasree@gmail.com)
 - **LinkedIn**: [www.linkedin.com/in/tejasreemummareddy](https://www.linkedin.com/in/tejasreemummareddy)
+- **Portfolio**: [mummareddytejasree.wixsite.com/portfolio](https://mummareddytejasree.wixsite.com/portfolio)
 
 ## 😄 Pronouns
 - She/Her
